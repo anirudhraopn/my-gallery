@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery_app/api_key.dart';
+import 'package:gallery_app/pixabay_api_key.dart';
 import 'package:gallery_app/model/pixabay_image.dart';
 
 class RequestMaker {
